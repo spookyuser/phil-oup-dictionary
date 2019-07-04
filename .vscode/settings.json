@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\caleb\\scoop\\apps\\miniconda3\\current\\envs\\scrape\\python.exe",
+    "python.venvPath": "C:\\Users\\caleb\\scoop\\apps\\miniconda3\\current\\envs\\scrape\\python.exe",
+    "python.formatting.blackPath": "C:\\Users\\caleb\\scoop\\apps\\miniconda3\\4.6.14\\Scripts\\black.exe",
+    "python.formatting.provider": "black"
+}
